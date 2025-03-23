@@ -1,14 +1,11 @@
-# EchoForge: Cast Your Words in Borrowed Voices
-
 # EchoForge: AI-Powered Writing Style Transfer 🎭✨
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/echoforge?style=social)](https://github.com/yourusername/echoforge)
+[![GitHub Stars](https://img.shields.io/github/stars/buzzgrewal/echoforge?style=social)](https://github.com/yourusername/echoforge)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-green)](https://www.python.org/)
 
 Transform text into any writing style using **Mistral-7B** and **Sentence-BERT**! Mimic Shakespeare, Elon Musk, legal docs, or even your own voice with AI.
 
-👉 [Live Demo](https://) | 📚 [Docs](https://) | 💬 [Discord](https://)
 
 ---
 

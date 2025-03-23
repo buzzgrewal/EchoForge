@@ -85,6 +85,59 @@ python app.py
 | **Gen-Z**      | "This project is cool"         | "Lowkey obsessed with this slay project fr 💅🔥" |
 
 ---
+## 🖥️ Interface
+
+### Main Page Components
+The Gradio interface provides an intuitive way to interact with EchoForge:
+
+1. **Input Text Box**: Paste/write your original text (supports 500+ characters)
+2. **Style Preset Dropdown**: Choose from 25+ preconfigured styles 
+3. **Style Examples Box**: View/edit examples for the selected style
+4. **Controls Panel**:  
+   - Temperature Slider (0.1-1.0): Adjust creativity/strictness  
+   - Max Tokens Slider (50-300): Control output length  
+5. **Output Section**:  
+   - Transformed Text Display  
+   - Style Similarity Score (0-1)  
+
+![250324_00h31m12s_screenshot](https://github.com/user-attachments/assets/0730361b-5828-42bd-8c36-1cad4af3f9a7)
+
+
+### Example Workflow
+**Scenario**: Convert a simple message to Shakespearean style  
+
+1. **Input Text**:  
+   `"Please come to the meeting tomorrow at 3 PM"`  
+
+2. **Selected Preset**: `Shakespeare`  
+
+3. **Style Examples Auto-Filled**:  
+   ```text
+   Shall I compare thee to a summer's day?
+   To be, or not to be: that is the question.
+   Parting is such sweet sorrow.
+   ```
+
+4. **Parameters**:  
+   - Temperature: 0.6  
+   - Max Tokens: 150  
+
+5. **Output**:  
+   ```text
+   Good gentles, hark! Tomorrow's hour of three  
+   Doth call thee hence to council most grave.  
+   Pray, grace this meeting with thy presence fair,  
+   Lest absence dim our noble enterprise.
+   ```
+   *Style Similarity Score: 0.81*
+
+![250324_00h08m40s_screenshot](https://github.com/user-attachments/assets/3416db3b-01b3-4bb1-a839-3d71089f4c6c)
+![250324_00h11m24s_screenshot](https://github.com/user-attachments/assets/9642370e-503d-482c-a41d-2da01e911549)
+![250324_00h25m31s_screenshot](https://github.com/user-attachments/assets/55f78acf-b82f-4011-9c76-d0af8d49271e)
+
+
+
+---
 
 ## 🧠 Technical Architecture
 

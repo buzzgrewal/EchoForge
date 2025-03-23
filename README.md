@@ -164,9 +164,9 @@ sequenceDiagram
 
 - [x] MVP with CLI
 - [x] Gradio Web UI
-- [ ] Voice blending (Q3 2024)
-- [ ] Browser extension (Q4 2024)
-- [ ] Mobile app (2025)
+- [ ] Voice blending 
+- [ ] Browser extension 
+- [ ] Mobile app
 
 ---
 ## 🔗 Essential Links

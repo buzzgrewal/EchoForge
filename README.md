@@ -172,7 +172,7 @@ sequenceDiagram
 ## 🔗 Essential Links
 - [Echo Forge on Github](https://github.com/buzzgrewal/EchoForge) 
 - [Echo Forge on Medium](https://buzzgrewal.medium.com/unleash-your-inner-literary-chameleon-with-echoforge-the-open-source-ai-that-masters-any-voice-65b2b2d4197a) 
-- [Echo Forge on Linkedin](#) 
+- [Echo Forge on Linkedin](https://www.linkedin.com/posts/abdullahgrewal_echoforge-where-ai-meets-literary-activity-7309661657666887681-5qMe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbHgEMBPYifrE8LKphxjSRQBBG7zH8PvEg) 
 
 ---
 

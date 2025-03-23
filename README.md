@@ -44,10 +44,8 @@ Transform text into any writing style using **Mistral-7B** and **Sentence-BERT**
 git clone https://github.com/yourusername/echoforge
 cd echoforge
 
-# Install dependencies (with poetry)
-poetry install
 
-# OR with pip
+# With pip
 pip install -r requirements.txt
 ```
 
@@ -118,6 +116,12 @@ sequenceDiagram
 - [ ] Mobile app (2025)
 
 ---
+## 🔗 Essential Links
+- [Echo Forge on Github](https://github.com/buzzgrewal/EchoForge) 
+- [Echo Forge on Medium](https://buzzgrewal.medium.com/unleash-your-inner-literary-chameleon-with-echoforge-the-open-source-ai-that-masters-any-voice-65b2b2d4197a) 
+- [Echo Forge on Linkedin](#) 
+
+---
 
 ## 🤝 Contributing
 
@@ -129,6 +133,7 @@ We welcome:
 See [CONTRIBUTING.md](https://) for guidelines.
 
 ---
+
 
 ## 📜 License
 
